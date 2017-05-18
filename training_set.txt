@@ -328,5 +328,1673 @@ Crystal 4 Aoharu x Kikanjuu
 Crystal 7 Prison School
 Crystal 0 One Punch Man
 Crystal 7 Mobile Suit Gundam: Iron-Blooded Orphans
-
-
+vondur 7 Genshiken
+vondur 6 Gantz
+vondur 6 Gantz 2nd Stage
+vondur 7 Ouran Koukou Host Club
+vondur 9 Black Lagoon
+vondur 8 Prince of Tennis: The National Tournament
+vondur 9 Black Lagoon: The Second Barrage
+vondur 9 Death Note
+vondur 9 Nodame Cantabile
+vondur 6 Genshiken OVA
+vondur 7 Genshiken 2
+vondur 9 Prince of Tennis: The National Tournament Semifinals
+vondur 0 Code Geass: Hangyaku no Lelouch R2
+vondur 8 Gyakkyou Burai Kaiji: Ultimate Survivor
+vondur 8 Prince of Tennis: The National Tournament Finals
+vondur 9 Nodame Cantabile: Paris-hen
+vondur 9 Fullmetal Alchemist: Brotherhood
+vondur 9 Hajime no Ippo: New Challenger
+vondur 8 Nodame Cantabile Finale
+vondur 10 Steins;Gate
+vondur 9 Fate/Zero
+vondur 8 Fate/Zero 2nd Season
+vondur 9 Free!
+Amuro 7 IS: Infinite Stratos
+Amuro 8 Kuroko no Basket
+Amuro 9 Fate/stay night: Unlimited Blade Works
+Amuro 8 High School DxD BorN
+Amuro 8 Owari no Seraph
+Amuro 9 Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+Amuro 9 Fate/stay night: Unlimited Blade Works 2nd Season
+Amuro 7 Gunslinger Stratos: The Animation
+Amuro 6 Mikagura Gakuen Kumikyoku
+Amuro 7 Grisaia no Rakuen
+Amuro 9 Ghost in the Shell: Arise - Alternative Architecture
+Baman 9 Cowboy Bebop
+Baman 9 Cowboy Bebop: Tengoku no Tobira
+Baman 6 School Rumble
+Baman 9 Texhnolyze
+Baman 4 Trinity Blood
+Baman 8 Neon Genesis Evangelion
+Baman 5 Neon Genesis Evangelion: Death & Rebirth
+Baman 9 Neon Genesis Evangelion: The End of Evangelion
+Baman 8 Ghost in the Shell
+Baman 6 .hack//Sign
+Baman 6 Appleseed (Movie)
+Baman 5 Chrno Crusade
+Baman 7 Azumanga Daioh
+Baman 6 Basilisk: Kouga Ninpou Chou
+Baman 6 Full Metal Panic!
+Baman 6 Full Metal Panic? Fumoffu
+Baman 8 Mobile Suit Gundam
+Baman 8 Mobile Suit Zeta Gundam
+Baman 6 Mobile Suit Gundam F91
+Baman 5 Mobile Suit Victory Gundam
+Baman 4 Mobile Suit Gundam Wing
+Baman 8 Turn A Gundam
+Baman 6 Last Exile
+Baman 4 Mai-HiME
+Baman 4 Mai-Otome
+Baman 4 Air
+Baman 3 Bakuretsu Tenshi
+Baman 8 Sakigake!! Cromartie Koukou
+Baman 6 Fullmetal Alchemist
+Baman 6 Hunter x Hunter
+Baman 5 Hunter x Hunter OVA
+Baman 5 Hunter x Hunter: Greed Island
+Baman 6 Blood+
+Baman 5 Ima, Soko ni Iru Boku
+Baman 6 Mononoke Hime
+Baman 6 RahXephon
+Baman 5 Scrapped Princess
+Baman 4 Shingetsutan Tsukihime
+Baman 2 Tenjou Tenge
+Baman 5 Tenkuu no Escaflowne
+Baman 5 Love Hina
+Baman 5 Love Hina Again
+Baman 5 Love Hina Christmas Special: Silent Eve
+Baman 5 Love Hina Haru Special: Kimi Sakura Chiru Nakare!!
+Baman 6 Wolf's Rain
+Baman 6 Samurai Champloo
+Baman 3 Elfen Lied
+Baman 5 FLCL
+Baman 5 Jigoku Shoujo
+Baman 8 Gankutsuou
+Baman 6 Genshiken
+Baman 6 Hoshi no Koe
+Baman 5 Hitsuji no Uta
+Baman 3 Grenadier: Hohoemi no Senshi
+Baman 3 .hack//Tasogare no Udewa Densetsu
+Baman 5 Abenobashi Mahou☆Shoutengai
+Baman 4 Final Fantasy VII: Advent Children
+Baman 8 Serial Experiments Lain
+Baman 4 Fate/stay night
+Baman 4 Gantz
+Baman 7 Haibane Renmei
+Baman 5 Karas
+Baman 5 Blood: The Last Vampire
+Baman 2 Fullmetal Alchemist: The Conqueror of Shamballa
+Baman 6 Kumo no Mukou, Yakusoku no Basho
+Baman 8 Perfect Blue
+Baman 9 Shoujo Kakumei Utena
+Baman 7 Shoujo Kakumei Utena: Adolescence Mokushiroku
+Baman 8 Mushishi
+Baman 9 Ghost in the Shell: Stand Alone Complex
+Baman 8 Ghost in the Shell 2: Innocence
+Baman 7 Aria The Animation
+Baman 5 School Rumble Ichi Gakki Hoshuu
+Baman 7 Metropolis
+Baman 8 Slayers
+Baman 7 Slayers: The Motion Picture
+Baman 6 Vampire Hunter D (2000)
+Baman 5 RahXephon Interlude: Her and Herself/Thatness and Thereness
+Baman 7 The Big O
+Baman 8 Jin-Rou
+Baman 7 Kaze no Tani no Nausicaä
+Baman 6 Hotaru no Haka
+Baman 6 Noein: Mou Hitori no Kimi e
+Baman 5 Hanbun no Tsuki ga Noboru Sora
+Baman 4 Mai-HiME Specials
+Baman 6 Princess Tutu
+Baman 8 Pale Cocoon
+Baman 8 Hellsing Ultimate
+Baman 5 Gasaraki
+Baman 6 Ergo Proxy
+Baman 5 NieA Under 7
+Baman 10 Ginga Eiyuu Densetsu
+Baman 6 School Rumble Ni Gakki
+Baman 6 Suzumiya Haruhi no Yuuutsu
+Baman 6 Ouran Koukou Host Club
+Baman 5 Utawarerumono
+Baman 8 Slayers Gorgeous
+Baman 8 Slayers Great
+Baman 8 Slayers Return
+Baman 7 Nana
+Baman 7 Densetsu Kyojin Ideon
+Baman 6 Higurashi no Naku Koro ni
+Baman 5 Love Hina: Motoko no Sentaku, Koi ka Ken... "Naku na"
+Baman 8 Hokuto no Ken
+Baman 6 Uchuu Kaizoku Captain Harlock
+Baman 5 Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi
+Baman 7 Wolf's Rain OVA
+Baman 7 Sennen Joyuu
+Baman 7 Mobile Suit Gundam I
+Baman 4 Final Fantasy: Unlimited
+Baman 6 Alien 9
+Baman 4 Zero no Tsukaima
+Baman 4 Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo
+Baman 6 Zone of the Enders: Idolo
+Baman 2 Zone of the Enders: Dolores, I
+Baman 4 Soukihei MD Geist
+Baman 5 The Animatrix
+Baman 4 Yakin Byoutou
+Baman 6 Fuujin Monogatari
+Baman 7 Death Note
+Baman 5 Yamato Nadeshiko Shichihenge♥
+Baman 6 Ghost Hunt
+Baman 4 Code Geass: Hangyaku no Lelouch
+Baman 4 Mai-Otome Zwei
+Baman 8 Uchuu Senkan Yamato
+Baman 4 Mai-Otome Specials
+Baman 7 Byousoku 5 Centimeter
+Baman 6 Hitohira
+Baman 6 Genshiken OVA
+Baman 5 Claymore
+Baman 2 Zero no Tsukaima: Futatsuki no Kishi
+Baman 5 Lucky☆Star
+Baman 5 Higurashi no Naku Koro ni Kai
+Baman 8 Master Keaton OVA
+Baman 8 Mobile Suit Gundam MS IGLOO: Apocalypse 0079
+Baman 7 Mobile Suit Gundam MS IGLOO: The Hidden One Year War
+Baman 7 Paprika
+Baman 8 Manie-Manie: Meikyuu Monogatari
+Baman 6 Tengen Toppa Gurren Lagann
+Baman 5 Heroic Age
+Baman 6 Darker than Black: Kuro no Keiyakusha
+Baman 5 El Cazador de la Bruja
+Baman 7 Kikou Ryohei Mellowlink
+Baman 7 Choujikuu Seiki Orguss 02
+Baman 6 Terra e... (TV)
+Baman 6 Doujin Work
+Baman 2 Bakuretsu Tenshi: Infinity
+Baman 8 Baccano!
+Baman 7 Taiyou no Kiba Dagram
+Baman 5 Giant Robo the Animation: Chikyuu ga Seishi Suru Hi
+Baman 6 Stranger: Mukou Hadan
+Baman 3 School Days
+Baman 3 Mobile Suit Gundam 00
+Baman 8 Soukou Kihei Votoms: The Last Red Shoulder
+Baman 8 Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots
+Baman 8 Soukou Kihei Votoms: Kakuyaku taru Itan
+Baman 6 Kara no Kyoukai 1: Fukan Fuukei
+Baman 7 Kenkou Zenrakei Suieibu Umishou
+Baman 7 Sayonara Zetsubou Sensei
+Baman 7 Evangelion: 1.0 You Are (Not) Alone
+Baman 6 Densetsu Kyojin Ideon: Sesshoku-hen
+Baman 7 Densetsu Kyojin Ideon: Hatsudou-hen
+Baman 4 Higurashi no Naku Koro ni Special: Nekogoroshi-hen
+Baman 1 Code Geass: Hangyaku no Lelouch R2
+Baman 5 ef: A Tale of Memories.
+Baman 9 Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai
+Baman 9 Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture
+Baman 8 The Sky Crawlers
+Baman 6 Hidamari Sketch Specials
+Baman 7 Zoku Sayonara Zetsubou Sensei
+Baman 7 Soukou Kihei Votoms: Pailsen Files
+Baman 3 Mai-Otome 0: S.ifr
+Baman 5 Persona: Trinity Soul
+Baman 8 Ginga Eiyuu Densetsu Gaiden: Senoku no Hoshi, Senoku no Hikari
+Baman 8 Ginga Eiyuu Densetsu Gaiden: Rasen Meikyuu
+Baman 7 Kaiba
+Baman 8 Detroit Metal City
+Baman 4 Murder
+Baman 6 Kara no Kyoukai 3: Tsuukaku Zanryuu
+Baman 6 Evangelion: 2.0 You Can (Not) Advance
+Baman 4 Evangelion: 3.0 You Can (Not) Redo
+Baman 6 Baccano! Specials
+Baman 4 Mobile Suit Gundam 00 Second Season
+Baman 6 Cowboy Bebop: Yose Atsume Blues
+Baman 5 Tytania
+Baman 5 Tengen Toppa Gurren Lagann Movie: Gurren-hen
+Baman 8 Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront
+Baman 5 Kara no Kyoukai 4: Garan no Dou
+Baman 5 Suzumiya Haruhi no Yuuutsu (2009)
+Baman 5 Toshi wo Totta Wani
+Baman 5 Gundam: Mission to the Rise
+Baman 5 Tengen Toppa Gurren Lagann Movie: Lagann-hen
+Baman 2 ChäoS;HEAd
+Baman 4 Maria†Holic
+Baman 5 Bakemonogatari
+Baman 6 Fullmetal Alchemist: Brotherhood
+Baman 5 Hatsukoi Limited
+Baman 4 First Squad: The Moment of Truth
+Baman 4 Kara no Kyoukai 6: Boukyaku Rokuon
+Baman 5 Kara no Kyoukai 7: Satsujin Kousatsu (Kou)
+Baman 9 Tsumiki no Ie
+Baman 8 Kemono no Souja Erin
+Baman 5 Higashi no Eden
+Baman 5 K-On!
+Baman 6 Kimi ni Todoke
+Baman 6 Cat Shit One
+Baman 7 Zan Sayonara Zetsubou Sensei
+Baman 6 Fullmetal Alchemist: Brotherhood Specials
+Baman 7 Katanagatari
+Baman 7 Redline
+Baman 5 Durarara!!
+Baman 6 Break Blade 1: Kakusei no Toki
+Baman 6 Kuuchuu Buranko
+Baman 7 So Ra No Wo To
+Baman 5 Seikimatsu Occult Gakuin
+Baman 5 Kaichou wa Maid-sama!
+Baman 4 Black★Rock Shooter (OVA)
+Baman 7 Suzumiya Haruhi no Shoushitsu
+Baman 7 Soukou Kihei Votoms: Pailsen Files the Movie
+Baman 5 Arakawa Under the Bridge
+Baman 5 Shiki
+Baman 5 Ookami-san to Shichinin no Nakama-tachi
+Baman 7 Yojouhan Shinwa Taikei
+Baman 6 K-On!!
+Baman 5 Kuragehime
+Baman 6 Fumiko no Kokuhaku
+Baman 6 So Ra No Wo To Specials
+Baman 6 Soukou Kihei Votoms: Case; Irvine
+Baman 6 Black Lagoon Omake
+Baman 6 Break Blade 2: Ketsubetsu no Michi
+Baman 5 Kami nomi zo Shiru Sekai
+Baman 7 Nichijou: Nichijou no 0-wa
+Baman 6 Break Blade 3: Kyoujin no Ato
+Baman 6 Hanasaku Iroha
+Baman 5 Denpa Onna to Seishun Otoko
+Baman 7 Break Blade 4: Sanka no Chi
+Baman 5 Highschool of the Dead: Drifters of the Dead
+Baman 6 K-On! Movie
+Baman 5 Kimi ni Todoke 2nd Season
+Baman 5 Break Blade 5: Shisen no Hate
+Baman 6 Mahou Shoujo Madoka★Magica
+Baman 6 Hoshi wo Ou Kodomo
+Baman 5 Ikoku Meiro no Croisée The Animation
+Baman 7 Tiger & Bunny
+Baman 5 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+Baman 5 Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials
+Baman 5 Kami nomi zo Shiru Sekai II
+Baman 6 Break Blade 6: Doukoku no Toride
+Baman 5 Kimi ni Todoke 2nd Season: Kataomoi
+Baman 7 Berserk: Ougon Jidai-hen I - Haou no Tamago
+Baman 7 Gyakkyou Burai Kaiji: Hakairoku-hen
+Baman 6 Yuru Yuri
+Baman 4 Kamisama no Memochou
+Baman 2 Guilty Crown
+Baman 7 Chihayafuru
+Baman 6 Hellsing: The Dawn
+Baman 5 Rinne no Lagrange
+Baman 6 Sankarea
+Baman 7 Fate/Zero 2nd Season
+Baman 3 Sword Art Online
+Baman 5 Sekai de Ichiban Tsuyoku Naritai!
+Baman 9 Uchuu Senkan Yamato 2199
+Baman 5 Hyouka
+Baman 6 Yuru Yuri♪♪
+Baman 7 Jormungand
+Baman 5 Nazo no Kanojo X
+Baman 5 Amagami SS+ Plus Specials
+Baman 5 Shirokuma Cafe
+Baman 5 Sankarea OVA
+Baman 8 Shinsekai yori
+Baman 7 Jormungand: Perfect Order
+Baman 4 Utsu Musume Sayuri
+Baman 6 Robotics;Notes
+Baman 7 Girls und Panzer
+Baman 5 Tonari no Kaibutsu-kun
+Baman 5 Btooom!
+Baman 6 Chihayafuru 2
+Baman 8 JoJo no Kimyou na Bouken (TV)
+Baman 6 Chuunibyou demo Koi ga Shitai!
+Baman 6 Maoyuu Maou Yuusha
+Baman 6 Boku wa Tomodachi ga Sukunai Next
+Baman 5 Kotoura-san
+Baman 6 Girls und Panzer Specials
+Baman 6 Nagi no Asukara
+Baman 7 Love Lab
+Baman 5 Photokano
+Baman 5 Tamako Market
+Baman 6 Shingeki no Kyojin
+Baman 6 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+Baman 7 Kotonoha no Niwa
+Baman 5 Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel
+Baman 7 Non Non Biyori
+Baman 5 Stella Jogakuin Koutou-ka C³-bu
+Baman 7 Servant x Service
+Baman 5 Kyoukai no Kanata
+Baman 7 Genshiken Nidaime
+Baman 6 Yozakura Quartet: Hana no Uta
+Baman 6 Love Live! School Idol Project 2nd Season
+Baman 7 Ghost in the Shell: Arise - Border:2 Ghost Whispers
+Baman 7 Ghost in the Shell: Arise - Border:3 Ghost Tears
+Baman 7 Ghost in the Shell: Arise - Border:4 Ghost Stands Alone
+Baman 5 Outbreak Company
+Baman 8 Sidonia no Kishi
+Baman 6 Love Live! School Idol Project OVA
+Baman 8 JoJo no Kimyou na Bouken: Stardust Crusaders
+Baman 7 Tonari no Seki-kun OVA
+Baman 6 Gochuumon wa Usagi Desu ka?
+Baman 6 Non Non Biyori: Okinawa e Ikukoto ni Natta
+Baman 5 Chuunibyou demo Koi ga Shitai! Ren Lite
+Baman 6 Mangaka-san to Assistant-san to The Animation
+Baman 5 Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.
+Baman 5 Blade & Soul
+Baman 5 Durarara!!x2 Shou
+Baman 5 Gugure! Kokkuri-san
+Baman 5 Hello!! Kiniro Mosaic
+Baman 4 Saenai Heroine no Sodatekata
+Baman 5 Log Horizon 2nd Season
+Baman 7 Space☆Dandy 2nd Season
+Baman 7 Denki-gai no Honya-san
+Baman 7 Kekkai Sensen
+Baman 7 Mushishi Zoku Shou: Odoro no Michi
+Baman 7 Mushishi Zoku Shou 2nd Season
+Baman 6 Ansatsu Kyoushitsu (TV)
+Baman 8 JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season
+Baman 6 Junketsu no Maria
+Baman 8 Ghost in the Shell (2015)
+Baman 5 Binan Koukou Chikyuu Bouei-bu LOVE!
+Baman 6 Hibike! Euphonium
+Baman 7 Arslan Senki (TV)
+Baman 6 Gochuumon wa Usagi Desu ka??
+Baman 5 Overlord
+Baman 5 Monster Musume no Iru Nichijou
+Baman 6 The iDOLM@STER Cinderella Girls 2nd Season
+Baman 7 Classroom☆Crisis
+Baman 6 Utawarerumono: Itsuwari no Kamen
+Baman 5 Overlord: Ple Ple Pleiades
+megan 7 Hanbun no Tsuki ga Noboru Sora
+megan 8 Kamisama Kazoku
+megan 7 Skip Beat!
+megan 9 Higashi no Eden
+megan 7 Kimi ni Todoke
+megan 7 Kimi ni Todoke 2nd Season
+megan 9 Sword Art Online
+megan 8 Noragami
+Koreth 0 Gantz
+kei-clone 5 Suzumiya Haruhi no Yuuutsu (2009)
+seif 8 Mahou Shoujo Lyrical Nanoha A's
+seif 8 RahXephon
+seif 8 Seikai no Monshou
+seif 7 Seikai no Senki
+seif 7 Seikai no Senki II
+seif 7 Seikai no Senki III
+seif 8 Fantastic Children
+seif 8 Kurau Phantom Memory
+seif 8 Saishuu Heiki Kanojo
+seif 7 Saishuu Heiki Kanojo: Another Love Song
+seif 5 Shinigami no Ballad.
+seif 6 Yomigaeru Sora: Rescue Wings
+seif 5 Nishi no Yoki Majo: Astraea Testament
+seif 6 Top wo Nerae! Gunbuster
+seif 5 Kumo no You ni Kaze no You ni
+seif 6 Kenran Butou Sai: The Mars Daybreak
+seif 7 Seikai no Danshou: Tanjou
+seif 6 Figure 17: Tsubasa & Hikaru
+seif 6 Giniro no Kami no Agito
+seif 7 Kino no Tabi: Nanika wo Suru Tame ni - Life Goes On.
+seif 5 Teizokurei Daydream
+seif 5 Super Robot Taisen OG The Animation
+seif 6 Asatte no Houkou.
+seif 7 Kikoushi Enma
+seif 5 Super Robot Taisen OG: Divine Wars
+seif 8 Hitohira
+seif 5 Yomigaeru Sora: Rescue Wings Special
+seif 7 Heroic Age
+seif 7 Terra e... (TV)
+seif 6 Stranger: Mukou Hadan
+seif 6 Gake no Ue no Ponyo
+seif 6 Cencoroll
+seif 7 Mai-Otome 0: S.ifr
+seif 6 Kiddy GiRL-AND
+seif 7 Shigofumi
+seif 7 Biohazard: Degeneration
+seif 6 Tears to Tiara
+seif 6 Telepathy Shoujo Ran
+seif 8 Evangelion: 2.0 You Can (Not) Advance
+seif 7 Kannagi
+seif 7 Clannad: Mou Hitotsu no Sekai, Tomoyo-hen
+seif 5 Super Robot Taisen OG: Divine Wars Special
+seif 8 Michiko to Hatchin
+seif 7 One Piece Film: Strong World
+seif 6 Darker than Black: Kuro no Keiyakusha Special
+seif 6 Chrome Shelled Regios
+seif 7 Eureka Seven: Pocket ga Niji de Ippai
+seif 6 Suzumiya Haruhi no Yuuutsu (2009)
+seif 6 Hyakko
+seif 7 Shigofumi Special
+seif 7 Gunslinger Girl: Il Teatrino OVA
+seif 7 Ichigo Mashimaro Encore
+seif 4 Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
+seif 7 Tales of the Abyss
+seif 7 Mahou Shoujo Lyrical Nanoha: The Movie 1st
+seif 8 Tetsuwan Birdy Decode:02
+seif 7 Bakemonogatari
+seif 9 Fullmetal Alchemist: Brotherhood
+seif 7 Taishou Yakyuu Musume.
+seif 6 Denpa-teki na Kanojo
+seif 4 First Squad: The Moment of Truth
+seif 9 Kara no Kyoukai 6: Boukyaku Rokuon
+seif 9 Kara no Kyoukai 7: Satsujin Kousatsu (Kou)
+seif 7 Zoku Natsume Yuujinchou
+seif 6 Sora wo Kakeru Shoujo
+seif 6 Macross F Movie 1: Itsuwari no Utahime
+seif 8 Ookami to Koushinryou II
+seif 6 Asura Cryin'
+seif 7 Canaan
+seif 8 Kemono no Souja Erin
+seif 6 Yokuwakaru Gendaimahou
+seif 7 Senjou no Valkyria
+seif 7 Tegamibachi: Hikari to Ao no Gensou Yawa
+seif 6 Dogs: Bullets & Carnage
+seif 8 K-On!
+seif 6 Summer Wars
+seif 7 Minami-ke Betsubara
+seif 5 Isekai no Seikishi Monogatari
+seif 6 Kiddy GiRL-AND Pilot
+seif 6 Kannagi: Moshimo Kannagi ga Attara...
+seif 6 Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+seif 8 Tales of Vesperia: The First Strike
+seif 7 White Album 2nd Season
+seif 7 Kämpfer
+seif 8 Tokyo Magnitude 8.0
+seif 8 Toaru Kagaku no Railgun
+seif 6 Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
+seif 5 Strike Witches 2
+seif 8 "Bungaku Shoujo" Movie
+seif 6 Fullmetal Alchemist: Brotherhood Specials
+seif 7 Tegamibachi
+seif 7 Nyan Koi!
+seif 6 Angel Beats!
+seif 8 Darker than Black: Ryuusei no Gemini
+seif 8 Ibara no Ou
+seif 4 Asura Cryin' 2
+seif 6 11eyes
+seif 6 Yokuwakaru Gendaimahou 00
+seif 7 Tatakau Shisho: The Book of Bantorra
+seif 7 So Ra No Wo To
+seif 6 Hakuouki
+seif 7 Working!!
+seif 5 Senkou no Night Raid
+seif 8 Aoi Bungaku Series
+seif 9 Suzumiya Haruhi no Shoushitsu
+seif 6 Loups=Garous
+seif 7 K-On!!
+seif 7 Densetsu no Yuusha no Densetsu
+seif 0 So Ra No Wo To Specials
+seif 4 Biohazard 4: Incubate
+seif 7 Soredemo Machi wa Mawatteiru
+seif 6 One Piece Film: Strong World Episode 0
+seif 7 Ore no Imouto ga Konnani Kawaii Wake ga Nai
+seif 6 Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desukara
+seif 7 Tamayura
+seif 7 Strike Witches Movie
+seif 5 Angel Beats!: Another Epilogue
+Hiromi 8 Mobile Suit Gundam 00
+Smoka 6 Code Geass: Hangyaku no Lelouch
+Smoka 10 Hajime no Ippo: New Challenger
+Smoka 9 Tokyo Magnitude 8.0
+Larahl 0 Neon Genesis Evangelion
+Larahl 5 World Destruction: Sekai Bokumetsu no Rokunin
+Larahl 9 Fullmetal Alchemist: Brotherhood
+Larahl 0 Deadman Wonderland
+Larahl 9 Another
+Larahl 4 Sword Art Online
+Larahl 0 Zetsuen no Tempest
+kevskove 0 Ghost in the Shell 2: Innocence
+rusty550 10 Pokemon
+qno2 6 X
+qno2 9 Fantastic Children
+qno2 5 Karin
+qno2 7 Slayers
+qno2 8 Slayers Next
+qno2 10 Ginga Eiyuu Densetsu
+qno2 9 Gintama
+qno2 5 Blame!
+qno2 8 Kemonozume
+qno2 4 Zero no Tsukaima: Futatsuki no Kishi
+qno2 6 Zombie-Loan
+qno2 7 Zoku Sayonara Zetsubou Sensei
+qno2 7 Gunslinger Girl: Il Teatrino
+qno2 7 .hack//G.U. Trilogy
+qno2 6 Zombie-Loan Specials
+qno2 7 Kyouran Kazoku Nikki
+qno2 7 Detroit Metal City
+qno2 7 Jigoku Shoujo Mitsuganae
+qno2 6 Slayers Revolution
+qno2 8 Natsume Yuujinchou
+qno2 6 Seto no Hanayome OVA
+qno2 8 Clannad: After Story
+qno2 8 Ga-Rei: Zero
+qno2 8 Goku Sayonara Zetsubou Sensei
+qno2 7 Hetalia Axis Powers
+qno2 8 Tetsuwan Birdy Decode:02
+qno2 9 Fullmetal Alchemist: Brotherhood
+qno2 7 Hajime no Ippo: New Challenger
+qno2 8 Ookami to Koushinryou II
+qno2 8 Higashi no Eden
+qno2 5 K-On!
+qno2 8 Nodame Cantabile Finale
+qno2 8 Kimi ni Todoke
+qno2 8 Zan Sayonara Zetsubou Sensei
+qno2 7 Arakawa Under the Bridge x Bridge
+qno2 7 Kimi ni Todoke 2nd Season
+qno2 7 Gintama'
+qno2 8 Fate/Zero
+qno2 10 Usagi Drop
+qno2 8 Gyakkyou Burai Kaiji: Hakairoku-hen
+qno2 7 Chuunibyou demo Koi ga Shitai!
+qno2 5 Chuunibyou demo Koi ga Shitai! Lite
+Kana 7 Touhai Densetsu Akagi: Yami ni Maiorita Tensai
+Kana 10 Death Note
+Kana 10 Nodame Cantabile
+Kana 7 Suzumiya Haruhi no Yuuutsu (2009)
+Kana 8 Nodame Cantabile: Paris-hen
+Kana 0 Bakemonogatari
+Kana 10 Fullmetal Alchemist: Brotherhood
+loneseeker1990 7 Dragon Ball GT
+loneseeker1990 0 Tenkuu no Shiro Laputa
+Aridy 8 Bleach
+Aridy 9 Tsukuyomi: Moon Phase
+Aridy 7 Bleach: Memories in the Rain
+Aridy 7 Bleach: The Sealed Sword Frenzy
+Aridy 7 Tsukuyomi: Moon Phase Special
+Aridy 8 Toaru Majutsu no Index
+Aridy 8 Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
+Aridy 9 Bleach Movie 4: Jigoku-hen
+Aridy 10 Steins;Gate
+Aridy 9 Kamisama Dolls
+Aridy 9 Tasogare Otome x Amnesia
+Sora-Senpai 0 Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!
+riso 0 Nodame Cantabile
+riso 0 Lovely★Complex
+riso 0 Okane ga Nai
+riso 0 Night Wizard
+riso 0 Macross F
+riso 0 Nabari no Ou
+riso 0 Nodame Cantabile: Paris-hen
+riso 0 ef: A Tale of Melodies.
+riso 0 xxxHOLiC Shunmuki
+riso 0 Fullmetal Alchemist: Brotherhood
+riso 0 Hatsukoi Limited
+riso 0 Zoku Natsume Yuujinchou
+riso 0 Sengoku Basara
+riso 0 K-On!
+riso 0 Kimi ni Todoke
+riso 0 Baka to Test to Shoukanjuu
+riso 0 Nyan Koi!
+riso 0 Angel Beats!
+riso 0 Durarara!!
+riso 0 xxxHOLiC Rou
+riso 0 Arakawa Under the Bridge
+riso 0 Sekaiichi Hatsukoi OVA
+riso 10 Kuragehime
+riso 0 Togainu no Chi
+riso 0 Otome Youkai Zakuro
+riso 0 Ore no Imouto ga Konnani Kawaii Wake ga Nai
+riso 0 Star Driver: Kagayaki no Takuto
+riso 0 Kimi ni Todoke 2nd Season
+riso 0 Angel Beats!: Another Epilogue
+riso 0 Kimi to Boku.
+riso 0 Mawaru Penguindrum
+riso 0 Sekaiichi Hatsukoi 2
+riso 0 Shingeki no Kyojin
+riso 0 Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+riso 0 Higurashi no Naku Koro ni Kaku: Outbreak
+riso 0 Kami nomi zo Shiru Sekai: Megami-hen
+riso 0 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+riso 0 Yowamushi Pedal
+riso 0 Haikyuu!!
+riso 0 Free!: Eternal Summer
+Apocs 0 Bleach
+Apocs 0 Death Note
+Apocs 0 Code Geass: Hangyaku no Lelouch
+Apocs 0 Mai-Otome Zwei
+Apocs 0 Kaze no Stigma
+Apocs 0 Devil May Cry
+Apocs 0 Claymore
+Apocs 0 Seirei no Moribito
+Apocs 0 Getsumen To Heiki Mina
+Apocs 0 Tengen Toppa Gurren Lagann
+Apocs 0 Darker than Black: Kuro no Keiyakusha
+Apocs 0 Shining Tears X Wind
+Apocs 0 Lovely★Complex
+Apocs 0 Seto no Hanayome
+Apocs 0 Skull Man
+Hikari_Chan 8 Air
+Hikari_Chan 7 Akage no Anne
+Hikari_Chan 10 Ojamajo Doremi Sharp
+Hikari_Chan 10 Motto! Ojamajo Doremi
+Hikari_Chan 8 Bokusatsu Tenshi Dokuro-chan
+Hikari_Chan 5 Bannou Bunka Neko-Musume
+Hikari_Chan 5 Bannou Bunka Neko-Musume DASH!
+Hikari_Chan 5 Bannou Bunka Neko-Musume (1998)
+Hikari_Chan 6 Ichigo Mashimaro
+Hikari_Chan 6 Cossette no Shouzou
+Hikari_Chan 7 Pokemon
+Hikari_Chan 9 Bishoujo Senshi Sailor Moon
+Hikari_Chan 9 Bishoujo Senshi Sailor Moon S
+Hikari_Chan 7 Digimon Adventure
+Hikari_Chan 7 Air in Summer
+Hikari_Chan 3 Air Movie
+Hikari_Chan 10 Princess Tutu
+Hikari_Chan 8 Bishoujo Senshi Sailor Moon R
+Hikari_Chan 5 Boku wa Imouto ni Koi wo Suru
+Hikari_Chan 8 Bishoujo Senshi Sailor Moon S: Kaguya Hime no Koibito
+Hikari_Chan 7 Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi
+Hikari_Chan 5 Azuki-chan
+Hikari_Chan 8 Ashita no Nadja
+Hikari_Chan 8 Bokusatsu Tenshi Dokuro-chan 2
+Hikari_Chan 8 Cardcaptor Sakura Specials
+Hikari_Chan 8 Ojamajo Doremi Sharp Movie
+Hikari_Chan 7 Bishoujo Senshi Sailor Moon SuperS Special
+Hikari_Chan 7 Nogizaka Haruka no Himitsu
+Hikari_Chan 9 Maria†Holic
+Hikari_Chan 5 Hetalia Axis Powers
+Hikari_Chan 10 Fullmetal Alchemist: Brotherhood
+Hikari_Chan 8 K-On!
+Hikari_Chan 7 Fresh Precure!
+Hikari_Chan 7 Yume-iro Pâtissière
+Hikari_Chan 5 K-On!: Ura-On!
+Hikari_Chan 7 Yume-iro Pâtissière SP Professional
+Hikari_Chan 10 Rozen Maiden (2013)
+Hikari_Chan 8 Pokemon: The Origin
+Hikari_Chan 9 Noragami
+plastkaze 0 DearS
+plastkaze 8 Fullmetal Alchemist
+plastkaze 0 Higurashi no Naku Koro ni
+plastkaze 0 Highlander: The Search for Vengeance
+plastkaze 0 Night Wizard
+plastkaze 0 Tetsuwan Birdy Decode
+plastkaze 0 Michiko to Hatchin
+plastkaze 0 Chrome Shelled Regios
+plastkaze 0 Hayate no Gotoku!!
+plastkaze 0 Toradora!
+plastkaze 0 Suzumiya Haruhi no Yuuutsu (2009)
+plastkaze 0 Queen's Blade: Rurou no Senshi
+plastkaze 0 Fullmetal Alchemist: Brotherhood
+plastkaze 0 Slayers Evolution-R
+plastkaze 0 Sengoku Basara
+plastkaze 0 Canaan
+plastkaze 0 Viper's Creed
+plastkaze 0 Dogs: Bullets & Carnage
+plastkaze 0 Basquash!
+plastkaze 0 Phantom: Requiem for the Phantom
+plastkaze 0 Darker than Black: Ryuusei no Gemini
+plastkaze 0 Queen's Blade: Gyokuza wo Tsugu Mono
+plastkaze 0 Fairy Tail
+plastkaze 0 Queen's Blade: Rurou no Senshi Specials
+plastkaze 0 Working!!
+plastkaze 0 Darker than Black: Kuro no Keiyakusha Gaiden
+plastkaze 0 Mardock Scramble: The First Compression
+plastkaze 0 Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita
+plastkaze 0 Working'!!
+plastkaze 0 Mirai Nikki (TV)
+plastkaze 0 Mardock Scramble: The Second Combustion
+plastkaze 0 Hunter x Hunter (2011)
+plastkaze 0 Another
+plastkaze 0 Mardock Scramble: The Third Exhaust
+plastkaze 0 Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu
+plastkaze 0 Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu
+plastkaze 0 Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku Kara
+plastkaze 0 Psycho-Pass Movie
+plastkaze 0 Durarara!!x2 Shou
+plastkaze 0 Psycho-Pass 2
+plastkaze 0 Gangsta.
+plastkaze 0 Working!!!
+plastkaze 0 Durarara!!x2 Ten
+neochichiri 0 Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
+Yusuke 10 Yuu☆Yuu☆Hakusho
+Darknuss 0 Suzumiya Haruhi no Yuuutsu (2009)
+Darknuss 0 Saki
+Lamy 0 Tsubasa Chronicle 2nd Season
+Lamy 8 Final Fantasy: Unlimited
+resilent 7 Neon Genesis Evangelion
+resilent 7 Eureka Seven
+resilent 7 .hack//Tasogare no Udewa Densetsu
+resilent 9 Gedo Senki
+resilent 0 Eureka Seven: Pocket ga Niji de Ippai
+resilent 8 xxxHOLiC Shunmuki
+resilent 8 Pandora Hearts
+resilent 8 Higashi no Eden
+resilent 9 K-On!
+resilent 7 Phantom: Requiem for the Phantom
+resilent 7 Dance in the Vampire Bund
+resilent 7 InuYasha: Kanketsu-hen
+resilent 7 Working!!
+resilent 10 Giant Killing
+resilent 6 Starry☆Sky
+resilent 7 Level E
+resilent 8 No.6
+resilent 7 K
+Zalmari 6 Eyeshield 21
+Zalmari 6 Naruto
+Zalmari 8 School Rumble
+Zalmari 6 DearS
+Zalmari 8 Azumanga Daioh
+Zalmari 8 Mai-HiME
+Zalmari 8 Mai-Otome
+Zalmari 7 Bakuretsu Tenshi
+Zalmari 9 Fullmetal Alchemist
+Zalmari 8 GetBackers
+Zalmari 6 Green Green
+Zalmari 7 Gunslinger Girl
+Zalmari 5 Kannazuki no Miko
+Zalmari 5 Kono Minikuku mo Utsukushii Sekai
+Zalmari 7 Kimi ga Nozomu Eien
+Zalmari 7 Tenjou Tenge
+Zalmari 6 Triangle Heart: Sweet Songs Forever
+Zalmari 7 Initial D First Stage
+Zalmari 6 Love Hina
+Zalmari 6 Love Hina Again
+Zalmari 6 Love Hina Christmas Special: Silent Eve
+Zalmari 6 Love Hina Haru Special: Kimi Sakura Chiru Nakare!!
+Zalmari 6 Onegai☆Teacher
+Zalmari 6 Onegai☆Twins
+Zalmari 8 Ninin ga Shinobuden
+Zalmari 7 Ichigo 100%
+Zalmari 7 Grenadier: Hohoemi no Senshi
+Zalmari 6 Hand Maid May
+Zalmari 7 Midori no Hibi
+Zalmari 7 Rose of Versailles
+Zalmari 0 Bible Black
+Zalmari 0 Futari Ecchi
+Zalmari 6 Kore ga Watashi no Goshujinsama
+Zalmari 6 Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!
+Zalmari 6 Tenjou Tenge: The Ultimate Fight
+Zalmari 6 One Piece Movie 2: Nejimaki-jima no Daibouken
+Zalmari 7 One Piece Movie 5: Norowareta Seiken
+Zalmari 7 School Rumble Ichi Gakki Hoshuu
+Zalmari 7 Sensei no Ojikan: Doki Doki School Hours
+Zalmari 6 Battle Programmer Shirase
+Zalmari 6 Amaenaide yo!!
+Zalmari 5 Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!
+Zalmari 0 Green Green Thirteen: Erolutions
+Zalmari 6 Tenjou Tenge: The Past Chapter
+Zalmari 5 Naruto: Akaki Yotsuba no Clover wo Sagase
+Zalmari 6 Bleach: Memories in the Rain
+Zalmari 9 Hellsing Ultimate
+Zalmari 8 School Rumble Ni Gakki
+Zalmari 6 Green Green OVA
+Zalmari 6 Love Hina: Motoko no Sentaku, Koi ka Ken... "Naku na"
+Zalmari 6 Hit wo Nerae!
+Zalmari 0 Bible Black Gaiden
+Zalmari 7 Star Ocean EX
+Zalmari 6 Gunnm
+Zalmari 7 Oruchuban Ebichu
+Zalmari 6 Mobile Police Patlabor
+Zalmari 0 Bible Black: New Testament
+Zalmari 0 Tokio Kidou Police
+Zalmari 8 Magic Knight Rayearth II
+Zalmari 7 Mai-Otome Zwei
+Zalmari 0 Boku no Pico
+Zalmari 7 Devil May Cry
+Zalmari 7 Rayearth
+Zalmari 5 Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! Special: Konoha Annual Sports Festival
+Zalmari 6 One Piece: Jango no Dance Carnival
+Zalmari 6 One Piece: Yume no Soccer Ou!
+Zalmari 0 Koihime
+Zalmari 0 Zoku Koihime
+Zalmari 6 One Piece: Mezase! Kaizoku Yakyuu Ou
+Zalmari 3 Rakushou! Hyper Doll
+Zalmari 0 Bible Black Only Version
+Zalmari 6 School Rumble San Gakki
+Zalmari 8 Toradora!
+Zalmari 0 Pico x CoCo x Chico
+Zalmari 6 Akikan!
+Zalmari 9 Hajime no Ippo: New Challenger
+Zalmari 0 Bible Black: Imari Ryoujoku Genba
+Zalmari 0 Pico to Chico
+Zalmari 8 K-On!
+Zalmari 9 Kimi ni Todoke
+Zalmari 7 Sasameki Koto
+Zalmari 8 Nyan Koi!
+Zalmari 8 Angel Beats!
+Zalmari 7 Working!!
+Zalmari 8 Kaichou wa Maid-sama!
+Zalmari 9 Amagami SS
+Zalmari 7 Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+Zalmari 7 Golden Time
+Zalmari 7 Hajime no Ippo: Rising
+Zalmari 6 Mikakunin de Shinkoukei
+TsundereRic 7 Vandread
+TsundereRic 8 Vandread: The Second Stage
+TsundereRic 0 Bokusatsu Tenshi Dokuro-chan 2
+starrysky 9 Cowboy Bebop
+starrysky 8 Full Metal Panic!
+starrysky 7 Mahou Shoujo Lyrical Nanoha
+starrysky 8 Mobile Suit Gundam Wing
+starrysky 7 Kareshi Kanojo no Jijou
+starrysky 8 Loveless
+starrysky 8 Onegai☆Teacher
+starrysky 9 Sen to Chihiro no Kamikakushi
+starrysky 7 FLCL
+starrysky 9 Cardcaptor Sakura
+starrysky 9 Bleach
+starrysky 7 Aa! Megami-sama!: Chichaitte Koto wa Benri da ne
+starrysky 8 Cardcaptor Sakura Movie 2: Fuuin Sareta Card
+starrysky 9 Howl no Ugoku Shiro
+starrysky 9 Onegai☆Teacher: Himitsu na Futari
+starrysky 8 Aria The Animation
+starrysky 6 Kino no Tabi: The Beautiful World
+starrysky 9 Majo no Takkyuubin
+starrysky 8 Metropolis
+starrysky 9 Tonari no Totoro
+starrysky 10 Bishoujo Senshi Sailor Moon
+starrysky 7 Tenchi Muyou! Ryououki
+starrysky 7 Tenchi Muyou! Ryououki 2nd Season
+starrysky 4 Tenchi Muyou! Ryououki 3rd Season
+starrysky 7 Digimon Adventure
+starrysky 7 Yami no Matsuei
+starrysky 8 Mimi wo Sumaseba
+starrysky 7 Neko no Ongaeshi
+starrysky 6 Bishoujo Senshi Sailor Moon R
+starrysky 7 Papa to Kiss in the Dark
+starrysky 5 Bleach: Memories in the Rain
+starrysky 7 Ginyuu Mokushiroku Meine Liebe Wieder
+starrysky 8 Tsubasa Chronicle: Tori Kago no Kuni no Himegimi
+starrysky 7 Prince of Tennis: The Two Samurai, The First Game
+starrysky 6 Bleach: The Sealed Sword Frenzy
+starrysky 8 Gakuen Heaven
+starrysky 10 Ouran Koukou Host Club
+starrysky 7 Aa! Megami-sama!: Sorezore no Tsubasa
+starrysky 7 Tsubasa Chronicle 2nd Season
+starrysky 9 Bishoujo Senshi Sailor Moon: Sailor Stars
+starrysky 7 Cardcaptor Sakura: Leave It to Kero-chan
+starrysky 9 Hachimitsu to Clover II
+starrysky 5 Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?
+starrysky 7 Prince of Tennis: A Day on Survival Mountain
+starrysky 9 D.Gray-man
+starrysky 8 Shounen Onmyouji
+starrysky 7 Marginal Prince: Gekkeiju no Ouji-tachi
+starrysky 10 Saiunkoku Monogatari 2nd Season
+starrysky 7 Aa! Megami-sama!: Sorezore no Tsubasa Specials
+starrysky 9 Tsubasa: Tokyo Revelations
+starrysky 8 Gake no Ue no Ponyo
+starrysky 8 Shugo Chara!
+starrysky 0 Aa! Megami-sama!: Tatakau Tsubasa
+starrysky 7 Persona: Trinity Soul
+starrysky 7 Kiniro no Corda: Primo Passo - Hitonatsu no Encore
+starrysky 8 Mobile Suit Gundam 00 Second Season
+starrysky 8 Kyou kara Maou! 3rd Series
+starrysky 8 Natsume Yuujinchou
+starrysky 7 Kodomo no Jikan: Ni Gakki
+starrysky 9 Toaru Majutsu no Index
+starrysky 7 Vampire Knight Guilty
+starrysky 7 Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
+starrysky 8 Kuroshitsuji
+starrysky 6 ChäoS;HEAd
+starrysky 6 Nakedyouth
+starrysky 10 Fullmetal Alchemist: Brotherhood
+starrysky 8 Hatsukoi Limited
+starrysky 9 Shangri-La
+starrysky 8 Sora wo Kakeru Shoujo
+starrysky 7 Dogs: Bullets & Carnage
+starrysky 7 Natsu no Arashi!
+starrysky 9 Higashi no Eden
+starrysky 8 Saki
+starrysky 10 Kobato.
+starrysky 8 K-On!
+starrysky 8 Minami-ke Betsubara
+starrysky 7 Kiniro no Corda: Secondo Passo
+starrysky 5 Akaneiro ni Somaru Saka: Hardcore
+starrysky 8 Seitokaichou ni Chuukoku
+starrysky 8 Kanamemo
+starrysky 7 Toaru Majutsu no Index-tan
+starrysky 7 Sora no Otoshimono
+starrysky 8 Kannagi: Moshimo Kannagi ga Attara...
+starrysky 10 Ristorante Paradiso
+starrysky 10 Kimi ni Todoke
+starrysky 7 Umi Monogatari: Anata ga Ite Kureta Koto
+starrysky 9 Aoi Hana
+starrysky 6 Asobi ni Iku yo!
+starrysky 8 Sasameki Koto
+starrysky 6 Kämpfer
+starrysky 9 Tokyo Magnitude 8.0
+starrysky 6 Akikan!: Kan Ippatsu!? Onsen Panic
+starrysky 7 Baka to Test to Shoukanjuu
+starrysky 6 ef: A Tale of Memories. - Prologue
+starrysky 9 Higashi no Eden Movie I: The King of Eden
+starrysky 10 "Bungaku Shoujo" Movie
+starrysky 7 Fullmetal Alchemist: Brotherhood Specials
+starrysky 8 Tegamibachi
+starrysky 7 Nyan Koi!
+starrysky 7 Darker than Black: Ryuusei no Gemini
+starrysky 9 Higashi no Eden Movie II: Paradise Lost
+starrysky 6 Kuroshitsuji II
+starrysky 7 Natsu no Arashi! Akinaichuu
+starrysky 10 Durarara!!
+starrysky 8 So Ra No Wo To
+starrysky 8 K-On!: Live House!
+starrysky 7 Hatsukoi Limited: Gentei Shoujo
+starrysky 7 Hakuouki
+starrysky 8 Working!!
+starrysky 8 Hyakko OVA
+starrysky 7 Seikimatsu Occult Gakuin
+starrysky 7 Shukufuku no Campanella
+starrysky 9 Kaichou wa Maid-sama!
+starrysky 8 Uragiri wa Boku no Namae wo Shitteiru
+starrysky 8 Miracle☆Train: Oedo-sen e Youkoso
+starrysky 9 Darker than Black: Kuro no Keiyakusha Gaiden
+starrysky 10 Saraiya Goyou
+starrysky 8 Nurarihyon no Mago
+starrysky 7 Haiyoru! Nyaruani
+starrysky 8 Mitsudomoe
+starrysky 10 Giant Killing
+starrysky 7 Suki Desu Suzuki-kun!!
+starrysky 10 "Bungaku Shoujo" Kyou no Oyatsu: Hatsukoi
+starrysky 8 Shiki
+starrysky 8 Ookami-san to Shichinin no Nakama-tachi
+starrysky 6 Kämpfer Picture Drama
+starrysky 8 K-On!!
+starrysky 6 Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai
+starrysky 7 Sora no Otoshimono: Project Pink
+starrysky 8 Fullmetal Alchemist: Brotherhood - 4-Koma Theater
+starrysky 7 Toaru Kagaku no Railgun: Motto Marutto Railgun
+starrysky 8 Sekaiichi Hatsukoi OVA
+starrysky 7 Highschool of the Dead
+starrysky 7 Densetsu no Yuusha no Densetsu
+starrysky 8 Kuragehime
+starrysky 7 So Ra No Wo To Specials
+starrysky 7 Bleach Movie 4: Jigoku-hen
+starrysky 7 Kachou no Koi
+starrysky 8 Sora no Otoshimono: Forte
+starrysky 8 Durarara!! Specials
+starrysky 7 MM!
+starrysky 7 Yozakura Quartet: Hoshi no Umi
+starrysky 9 Otome Youkai Zakuro
+starrysky 10 "Bungaku Shoujo" Memoire
+starrysky 7 Kyou, Koi wo Hajimemasu
+starrysky 7 Hidan no Aria
+starrysky 7 Koisuru Boukun
+starrysky 8 Seitokai Yakuindomo
+starrysky 7 Amagami SS
+starrysky 7 Soredemo Machi wa Mawatteiru
+starrysky 7 Hiyokoi
+starrysky 6 Ore no Imouto ga Konnani Kawaii Wake ga Nai
+starrysky 6 Nichijou: Nichijou no 0-wa
+starrysky 6 Koe de Oshigoto! The Animation
+starrysky 8 Mouretsu Pirates
+starrysky 8 Star Driver: Kagayaki no Takuto
+starrysky 8 Toaru Majutsu no Index II
+starrysky 5 Tono to Issho: Ippunkan Gekijou
+starrysky 8 Toaru Hikuushi e no Tsuioku
+starrysky 7 IS: Infinite Stratos
+starrysky 9 Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desukara
+starrysky 7 Tamayura
+starrysky 8 Fullmetal Alchemist: The Sacred Star of Milos
+starrysky 7 Kowarekake no Orgel
+starrysky 8 Hanasaku Iroha
+starrysky 7 Dragon Crisis!
+starrysky 7 Yumekui Merry
+starrysky 8 Koi☆Sento
+starrysky 7 Kaichou wa Maid-sama!: Omake dayo!
+starrysky 6 Denpa Onna to Seishun Otoko
+starrysky 7 Highschool of the Dead: Drifters of the Dead
+starrysky 7 Asobi ni Iku yo!: Asobi ni Oide
+starrysky 8 Kimi ni Todoke 2nd Season
+starrysky 5 Kami nomi zo Shiru Sekai: Flag 0
+starrysky 5 Densetsu no Yuusha no Densetsu: Iris Report
+starrysky 8 K-On!!: Keikaku!
+starrysky 7 Astarotte no Omocha!
+starrysky 7 Mahou Shoujo Madoka★Magica
+starrysky 9 A-Channel
+starrysky 9 Ao no Exorcist
+starrysky 6 Shukufuku no Campanella: La Campanella Della Benedizione
+starrysky 7 Amagami SS: Tachibana Miya-hen - Imouto
+starrysky 9 Sekaiichi Hatsukoi
+starrysky 7 Ikoku Meiro no Croisée The Animation
+starrysky 9 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+starrysky 7 Kimi ni Todoke 2nd Season: Kataomoi
+starrysky 7 Dog Days
+starrysky 8 Sacred Seven
+starrysky 9 Usagi Drop
+starrysky 8 Sengoku Otome: Momoiro Paradox
+starrysky 7 Uta no☆Prince-sama♪ Maji Love 1000%
+starrysky 6 Tenchi Muyou! Ryououki 2nd Season Picture Drama
+starrysky 7 Yuru Yuri
+starrysky 8 Working'!!
+starrysky 9 Kamisama no Memochou
+starrysky 6 Ro-Kyu-Bu!
+starrysky 7 Astarotte no Omocha! EX
+starrysky 7 Denpa Onna to Seishun Otoko Special
+starrysky 7 Boku wa Tomodachi ga Sukunai
+starrysky 8 Guilty Crown
+starrysky 7 IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou
+starrysky 8 Chihayafuru
+starrysky 8 Ikoku Meiro no Croisée Special
+starrysky 5 Double-J
+starrysky 7 Saki Achiga-hen: Episode of Side-A
+starrysky 6 Boku wa Tomodachi ga Sukunai Episode 0
+starrysky 9 Inu x Boku SS
+starrysky 8 Rinne no Lagrange
+starrysky 7 Amagami SS+ Plus
+starrysky 7 Brave 10
+starrysky 8 A-Channel+smile
+starrysky 9 Ano Natsu de Matteru
+starrysky 7 Sankarea
+starrysky 8 Toradora!: Bentou no Gokui
+starrysky 7 Gokujo.: Gokurakuin Joshikou Ryou Monogatari
+starrysky 7 Natsu-iro Kiseki
+starrysky 7 Hyouka
+starrysky 8 Acchi Kocchi (TV)
+starrysky 6 Shining Hearts: Shiawase no Pan
+starrysky 8 Tasogare Otome x Amnesia
+starrysky 8 Sakamichi no Apollon
+starrysky 7 Amagami SS+ Plus Specials
+starrysky 7 Ozma
+starrysky 8 Tsuritama
+starrysky 7 Sankarea OVA
+starrysky 7 Tari Tari
+starrysky 7 Inu x Boku SS Special
+starrysky 7 Hyouka: Motsubeki Mono wa
+starrysky 8 Binbougami ga!
+starrysky 4 Natsuyuki Rendezvous
+starrysky 6 Otome Nadeshiko Koi Techou
+starrysky 8 Sakurasou no Pet na Kanojo
+starrysky 8 Nagareboshi Lens
+starrysky 7 Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
+starrysky 6 Mangirl!
+starrysky 8 Hanasaku Iroha: Home Sweet Home
+starrysky 7 Tasogare Otome x Amnesia: Taima Otome
+starrysky 7 Tonari no Kaibutsu-kun
+starrysky 7 Vividred Operation
+starrysky 7 Sukitte Ii na yo.
+starrysky 8 Little Witch Academia
+starrysky 7 Death Billiards
+starrysky 7 Yama no Susume
+starrysky 10 Chihayafuru 2
+starrysky 8 K
+starrysky 7 Minami-ke Tadaima
+starrysky 8 Magi: The Labyrinth of Magic
+starrysky 8 Minami-ke Omatase
+starrysky 8 Kamisama Hajimemashita
+starrysky 9 Chuunibyou demo Koi ga Shitai!
+starrysky 6 GJ-bu
+starrysky 9 Boku wa Tomodachi ga Sukunai Next
+starrysky 7 Cuticle Tantei Inaba
+starrysky 7 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+starrysky 0 Natsu-iro Kiseki: 15-kaime no Natsuyasumi
+starrysky 7 Yumekuri
+starrysky 8 Chuunibyou demo Koi ga Shitai! Lite
+starrysky 5 Senyuu.
+starrysky 7 Fantasista Doll
+starrysky 5 Amagami SS+ Plus Picture Drama
+starrysky 7 Saki Achiga-hen: Episode of Side-A Specials
+starrysky 4 Choboraunyopomi Gekijou Ai Mai Mii
+starrysky 7 Acchi Kocchi (TV): Place=Princess
+starrysky 8 Tamako Market
+starrysky 7 Sankarea: Wagahai mo... Zombie de Aru...
+starrysky 6 Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel
+starrysky 9 Aiura
+starrysky 0 Yama no Susume: Kabette Kowakunai no?
+starrysky 7 Mangirl!: Asobu Henshuu Girl
+starrysky 1 Diabolik Lovers
+starrysky 7 Kyoukai no Kanata
+starrysky 7 Gingitsune
+starrysky 0 Free!
+starrysky 7 Aoki Hagane no Arpeggio: Ars Nova
+starrysky 7 Galilei Donna
+starrysky 0 Free!: FrFr - Short Movie
+starrysky 8 Inari, Konkon, Koi Iroha.
+starrysky 9 Kimi to Boku
+starrysky 0 Tokyo ESP
+starrysky 6 Bokura wa Minna Kawaisou
+starrysky 0 Hanayamata
+starrysky 0 Ao Haru Ride
+starrysky 8 Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.
+starrysky 0 Free!: Eternal Summer
+starrysky 0 Aldnoah.Zero
+starrysky 0 Barakamon
+starrysky 0 Zankyou no Terror
+starrysky 0 Gekkan Shoujo Nozaki-kun
+starrysky 6 Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.
+starrysky 7 Bokura wa Minna Kawaisou: Hajimete no
+detestedlove311 8 Blood+
+Discordant_Raven 0 Abenobashi Mahou☆Shoutengai
+Discordant_Raven 0 Dragon Ball Movie 1: Shen Long no Densetsu
+Discordant_Raven 0 Dragon Ball Z
+Discordant_Raven 0 Dragon Ball Movie 2: Majinjou no Nemuri Hime
+Discordant_Raven 0 Dragon Ball Movie 3: Makafushigi Daibouken
+Discordant_Raven 0 Dragon Ball Movie 4: Saikyou e no Michi
+Discordant_Raven 0 Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!
+Discordant_Raven 0 Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu
+Discordant_Raven 0 Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen
+Discordant_Raven 0 Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu
+Discordant_Raven 0 Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou
+Discordant_Raven 0 Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi
+Discordant_Raven 0 Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin
+Discordant_Raven 0 Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen
+Discordant_Raven 0 Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu
+Discordant_Raven 0 Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai
+Discordant_Raven 0 Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da
+Discordant_Raven 0 Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta
+Discordant_Raven 0 Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru
+Discordant_Raven 0 Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks
+Discordant_Raven 0 Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen
+Discordant_Raven 0 Dragon Ball GT: Goku Gaiden! Yuuki no Akashi wa Suushinchuu
+Discordant_Raven 0 Dragon Ball Specials
+Discordant_Raven 0 Mitsudomoe
+Discordant_Raven 0 Mitsudomoe Special
+Discordant_Raven 0 Mitsudomoe Zouryouchuu!
+Discordant_Raven 0 Dragon Ball: Episode of Bardock
+Discordant_Raven 0 Dragon Ball Z Movie 14: Kami to Kami
+Discordant_Raven 0 Non Non Biyori
+Discordant_Raven 0 Miss Monochrome: The Animation
+Discordant_Raven 8 Space☆Dandy
+Discordant_Raven 0 Non Non Biyori: Okinawa e Ikukoto ni Natta
+Discordant_Raven 8 Space☆Dandy 2nd Season
+Discordant_Raven 0 Non Non Biyori Repeat
+Discordant_Raven 0 Miss Monochrome: The Animation - Soccer-hen
+Discordant_Raven 0 Dragon Ball Z Movie 15: Fukkatsu no F
+Discordant_Raven 8 Shokugeki no Souma
+Discordant_Raven 0 Miss Monochrome: The Animation - Manager
+Discordant_Raven 8 Overlord
+Discordant_Raven 0 One Punch Man
+Discordant_Raven 0 Monster Musume no Iru Nichijou
+Discordant_Raven 0 Miss Monochrome: The Animation 2
+Discordant_Raven 0 Himouto! Umaru-chanS
+zenrov 8 Elfen Lied
+zenrov 8 Ergo Proxy
+zenrov 8 Black Lagoon
+zenrov 8 Black Lagoon: The Second Barrage
+zenrov 7 Plawres Sanshirou
+zenrov 10 Captain Tsubasa
+zenrov 8 Stranger: Mukou Hadan
+zenrov 7 Evangelion: 1.0 You Are (Not) Alone
+zenrov 7 Hajime no Ippo: New Challenger
+zenrov 8 Hajime no Ippo: Rising
+dreidel 10 Naruto
+dreidel 9 Elfen Lied
+Dorcas_Aurelia 8 Appleseed (Movie)
+Dorcas_Aurelia 7 Mahou Shoujo Lyrical Nanoha
+Dorcas_Aurelia 8 Mahou Shoujo Lyrical Nanoha A's
+Dorcas_Aurelia 7 Juuni Kokuki
+Dorcas_Aurelia 10 Mononoke Hime
+Dorcas_Aurelia 8 Macross Zero
+Dorcas_Aurelia 9 R.O.D OVA
+Dorcas_Aurelia 6 Mezzo Forte
+Dorcas_Aurelia 8 Gankutsuou
+Dorcas_Aurelia 8 Golden Boy
+Dorcas_Aurelia 8 Kiddy Grade
+Dorcas_Aurelia 4 A Kite
+Dorcas_Aurelia 7 Bastard!!: Ankoku no Hakaishin
+Dorcas_Aurelia 8 Kurenai no Buta
+Dorcas_Aurelia 7 Macross Plus
+Dorcas_Aurelia 6 Tetsuwan Birdy
+Dorcas_Aurelia 6 Nurse Witch Komugi-chan Magikarte
+Dorcas_Aurelia 8 Gunsmith Cats
+Dorcas_Aurelia 3 Burn Up! W
+Dorcas_Aurelia 2 Eiken: Eikenbu yori Ai wo Komete
+Dorcas_Aurelia 6 Riding Bean
+Dorcas_Aurelia 7 Nurse Witch Komugi-chan Magikarte Special
+Dorcas_Aurelia 5 Appleseed
+Dorcas_Aurelia 5 Jyu Oh Sei
+Dorcas_Aurelia 7 Dead Leaves
+Dorcas_Aurelia 5 The SoulTaker: Tamashii-gari
+Dorcas_Aurelia 4 Dominion
+Dorcas_Aurelia 7 Cyber City Oedo 808
+Dorcas_Aurelia 3 Shin Hokuto no Ken
+Dorcas_Aurelia 4 The Samurai
+Dorcas_Aurelia 6 Teizokurei Daydream
+Dorcas_Aurelia 7 Busou Renkin
+Dorcas_Aurelia 5 Cosmo Warrior Zero
+Dorcas_Aurelia 6 Cosmo Warrior Zero Gaiden
+Dorcas_Aurelia 7 Gun Frontier
+Dorcas_Aurelia 7 Jigen Sengokushi: Kuro no Shishi - Jinnai-hen
+Dorcas_Aurelia 7 Mahou Shoujo Lyrical Nanoha StrikerS
+Dorcas_Aurelia 9 Paprika
+Dorcas_Aurelia 7 Manie-Manie: Meikyuu Monogatari
+Dorcas_Aurelia 10 Tengen Toppa Gurren Lagann
+Dorcas_Aurelia 10 Toki wo Kakeru Shoujo
+Dorcas_Aurelia 9 Giant Robo the Animation: Chikyuu ga Seishi Suru Hi
+Dorcas_Aurelia 8 Stranger: Mukou Hadan
+Dorcas_Aurelia 2 Kaitouranma The Animation
+Dorcas_Aurelia 9 Daicon Opening Animations
+Dorcas_Aurelia 9 Shugo Chara!
+Dorcas_Aurelia 8 Cencoroll
+Dorcas_Aurelia 6 Gatchaman
+Dorcas_Aurelia 9 Eve no Jikan
+Dorcas_Aurelia 3 Kiddy GiRL-AND
+Dorcas_Aurelia 4 Kanokon
+Dorcas_Aurelia 8 Soul Eater
+Dorcas_Aurelia 4 Tears to Tiara
+Dorcas_Aurelia 7 Higurashi no Naku Koro ni Rei
+Dorcas_Aurelia 7 Koihime†Musou
+Dorcas_Aurelia 6 Heroman
+Dorcas_Aurelia 6 Suzumiya Haruhi no Yuuutsu (2009)
+Dorcas_Aurelia 8 Macross F: Close Encounter - Deculture Edition
+Dorcas_Aurelia 7 Hyakko
+Dorcas_Aurelia 9 Tengen Toppa Gurren Lagann Movie: Lagann-hen
+Dorcas_Aurelia 6 Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
+Dorcas_Aurelia 6 Umineko no Naku Koro ni
+Dorcas_Aurelia 9 Bakemonogatari
+Dorcas_Aurelia 7 Fullmetal Alchemist: Brotherhood
+Dorcas_Aurelia 8 Shugo Chara!! Doki
+Dorcas_Aurelia 5 Koihime†Musou OVA
+Dorcas_Aurelia 7 Macross F Movie 1: Itsuwari no Utahime
+Dorcas_Aurelia 6 Ookami to Koushinryou II
+Dorcas_Aurelia 8 Sengoku Basara
+Dorcas_Aurelia 6 Natsu no Arashi!
+Dorcas_Aurelia 9 Higashi no Eden
+Dorcas_Aurelia 6 Saki
+Dorcas_Aurelia 6 Basquash!
+Dorcas_Aurelia 7 K-On!
+Dorcas_Aurelia 9 Summer Wars
+Dorcas_Aurelia 6 Kiddy GiRL-AND Pilot
+Dorcas_Aurelia 5 Seiken no Blacksmith
+Dorcas_Aurelia 9 Cross Game
+Dorcas_Aurelia 7 Toaru Majutsu no Index-tan
+Dorcas_Aurelia 7 Shin Koihime†Musou
+Dorcas_Aurelia 7 Asobi ni Iku yo!
+Dorcas_Aurelia 5 Kämpfer
+Dorcas_Aurelia 6 Tokyo Magnitude 8.0
+Dorcas_Aurelia 6 Toaru Kagaku no Railgun
+Dorcas_Aurelia 8 Baka to Test to Shoukanjuu
+Dorcas_Aurelia 8 Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
+Dorcas_Aurelia 9 Higashi no Eden Movie I: The King of Eden
+Dorcas_Aurelia 0 Zan Sayonara Zetsubou Sensei
+Dorcas_Aurelia 6 Tetsuwan Birdy Decode: The Cipher
+Dorcas_Aurelia 8 Angel Beats!
+Dorcas_Aurelia 7 Darker than Black: Ryuusei no Gemini
+Dorcas_Aurelia 7 Hanamaru Youchien
+Dorcas_Aurelia 7 Katanagatari
+Dorcas_Aurelia 7 Sengoku Basara Two
+Dorcas_Aurelia 10 Redline
+Dorcas_Aurelia 8 Durarara!!
+Dorcas_Aurelia 6 K-On!: Live House!
+Dorcas_Aurelia 6 Halo Legends
+Dorcas_Aurelia 3 Seikimatsu Occult Gakuin
+Dorcas_Aurelia 4 Black★Rock Shooter (OVA)
+Dorcas_Aurelia 8 Hidamari Sketch x ☆☆☆
+Dorcas_Aurelia 6 Shugo Chara! Party!
+Dorcas_Aurelia 5 Mahou Sensei Negima! Anime Final
+Dorcas_Aurelia 4 Macross F Movie 2: Sayonara no Tsubasa
+Dorcas_Aurelia 7 Darker than Black: Kuro no Keiyakusha Gaiden
+Dorcas_Aurelia 7 Arakawa Under the Bridge
+Dorcas_Aurelia 8 Shiki
+Dorcas_Aurelia 7 Shin Koihime†Musou: Otome Tairan
+Dorcas_Aurelia 9 Mardock Scramble: The First Compression
+Dorcas_Aurelia 8 Otome Youkai Zakuro
+Dorcas_Aurelia 5 Kami nomi zo Shiru Sekai
+Dorcas_Aurelia 9 Shinryaku! Ika Musume
+Dorcas_Aurelia 8 Soredemo Machi wa Mawatteiru
+Dorcas_Aurelia 6 Ore no Imouto ga Konnani Kawaii Wake ga Nai
+Dorcas_Aurelia 7 Panty & Stocking with Garterbelt
+Dorcas_Aurelia 8 Kore wa Zombie Desu ka?
+Dorcas_Aurelia 6 Mouretsu Pirates
+Dorcas_Aurelia 8 Star Driver: Kagayaki no Takuto
+Dorcas_Aurelia 8 Hanasaku Iroha
+Dorcas_Aurelia 8 Denpa Onna to Seishun Otoko
+Dorcas_Aurelia 5 Astarotte no Omocha!
+Dorcas_Aurelia 10 Mahou Shoujo Madoka★Magica
+Dorcas_Aurelia 9 Level E
+Dorcas_Aurelia 6 Tiger & Bunny
+Dorcas_Aurelia 8 Angel Beats!: Another Epilogue
+Dorcas_Aurelia 7 Shinryaku!? Ika Musume
+Dorcas_Aurelia 8 Ben-To
+Dorcas_Aurelia 9 Mawaru Penguindrum
+Dorcas_Aurelia 6 Kore wa Zombie Desu ka? of the Dead
+Dorcas_Aurelia 6 Saki Achiga-hen: Episode of Side-A
+Dorcas_Aurelia 7 Hidamari Sketch x Honeycomb
+Dorcas_Aurelia 9 Redline Pilot
+Dorcas_Aurelia 9 Nisemonogatari
+Dorcas_Aurelia 0 Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari
+Dorcas_Aurelia 0 Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari
+Dorcas_Aurelia 8 Sakamichi no Apollon
+Dorcas_Aurelia 8 Shinsekai yori
+Dorcas_Aurelia 9 Lupin the Third: Mine Fujiko to Iu Onna
+Dorcas_Aurelia 7 Moyashimon Returns
+Dorcas_Aurelia 6 Girls und Panzer
+Dorcas_Aurelia 8 Tonari no Kaibutsu-kun
+Dorcas_Aurelia 6 Vividred Operation
+Dorcas_Aurelia 8 Minami-ke Tadaima
+Dorcas_Aurelia 5 Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+Dorcas_Aurelia 7 Maoyuu Maou Yuusha
+Dorcas_Aurelia 7 Kotoura-san
+Dorcas_Aurelia 7 Hataraku Maou-sama!
+Dorcas_Aurelia 7 Kick-Heart
+Dorcas_Aurelia 9 Aku no Hana
+Dorcas_Aurelia 8 Kill la Kill
+narunaru 10 Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life
+jlego 8 Chrno Crusade
+jlego 8 Saiyuuki Reload Gunlock
+jlego 9 Batman: Gotham Knight
+jlego 7 Kuroshitsuji
+jlego 0 Bishoujo Senshi Sailor Moon Crystal
+WonderingZero 6 Naruto
+WonderingZero 8 Fullmetal Alchemist
+WonderingZero 8 Kimi ga Nozomu Eien
+WonderingZero 8 Genshiken
+WonderingZero 9 Hajime no Ippo
+WonderingZero 9 Hajime no Ippo: Champion Road
+WonderingZero 10 Hajime no Ippo: Mashiba vs. Kimura
+WonderingZero 7 Fate/stay night
+WonderingZero 7 Fullmetal Alchemist: The Conqueror of Shamballa
+WonderingZero 1 InuYasha: Toki wo Koeru Omoi
+WonderingZero 10 Aria The Animation
+WonderingZero 10 School Rumble Ichi Gakki Hoshuu
+WonderingZero 8 School Rumble Ni Gakki
+WonderingZero 10 Gintama
+WonderingZero 7 Genshiken OVA
+WonderingZero 8 Hidamari Sketch
+WonderingZero 10 Stranger: Mukou Hadan
+WonderingZero 7 ef: A Tale of Memories.
+WonderingZero 8 Hidamari Sketch Specials
+WonderingZero 7 H2O: Footprints in the Sand
+WonderingZero 9 Mnemosyne: Mnemosyne no Musume-tachi
+WonderingZero 8 Shigofumi
+WonderingZero 10 Macross F
+WonderingZero 9 Hidamari Sketch x 365
+WonderingZero 10 Higurashi no Naku Koro ni Rei
+WonderingZero 10 Evangelion: 2.0 You Can (Not) Advance
+WonderingZero 10 Clannad: Mou Hitotsu no Sekai, Tomoyo-hen
+WonderingZero 8 Chrome Shelled Regios
+WonderingZero 7 Heroman
+WonderingZero 7 Suzumiya Haruhi no Yuuutsu (2009)
+WonderingZero 8 Toaru Majutsu no Index
+WonderingZero 8 ef: A Tale of Melodies.
+WonderingZero 7 Umineko no Naku Koro ni
+WonderingZero 8 ChäoS;HEAd
+WonderingZero 8 Bakemonogatari
+WonderingZero 6 Akikan!
+WonderingZero 10 Fullmetal Alchemist: Brotherhood
+WonderingZero 8 Hatsukoi Limited
+WonderingZero 10 Kara no Kyoukai 6: Boukyaku Rokuon
+WonderingZero 10 Kara no Kyoukai 7: Satsujin Kousatsu (Kou)
+WonderingZero 10 Hajime no Ippo: New Challenger
+WonderingZero 8 Asura Cryin'
+WonderingZero 7 Canaan
+WonderingZero 8 Pandora Hearts
+WonderingZero 9 Higashi no Eden
+WonderingZero 8 To LOVE-Ru OVA
+WonderingZero 8 Basquash!
+WonderingZero 8 K-On!
+WonderingZero 9 Tayutama: Kiss on My Deity
+WonderingZero 8 Seitokai no Ichizon
+WonderingZero 9 Sora no Otoshimono
+WonderingZero 8 Kannagi: Moshimo Kannagi ga Attara...
+WonderingZero 9 Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu
+WonderingZero 7 Tokyo Magnitude 8.0
+WonderingZero 9 Toaru Kagaku no Railgun
+WonderingZero 7 Omamori Himari
+WonderingZero 8 Baka to Test to Shoukanjuu
+WonderingZero 10 Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
+WonderingZero 8 Higashi no Eden Movie I: The King of Eden
+WonderingZero 8 There She Is!!
+WonderingZero 9 Nyan Koi!
+WonderingZero 8 Angel Beats!
+WonderingZero 8 Shakugan no Shana S
+WonderingZero 8 Katanagatari
+WonderingZero 8 Higashi no Eden Movie II: Paradise Lost
+WonderingZero 7 11eyes
+WonderingZero 9 Durarara!!
+WonderingZero 8 Shakugan no Shana III (Final)
+WonderingZero 7 So Ra No Wo To
+WonderingZero 7 Deadman Wonderland
+WonderingZero 6 Fate/stay night Movie: Unlimited Blade Works
+WonderingZero 9 Working!!
+WonderingZero 8 Shukufuku no Campanella
+WonderingZero 9 Hidamari Sketch x 365 Specials
+WonderingZero 8 Black★Rock Shooter (OVA)
+WonderingZero 9 Hidamari Sketch x ☆☆☆
+WonderingZero 6 Ookamikakushi
+WonderingZero 7 Ladies versus Butlers!
+WonderingZero 10 Suzumiya Haruhi no Shoushitsu
+WonderingZero 6 Mayoi Neko Overrun!
+WonderingZero 9 Mitsudomoe
+WonderingZero 6 Shinrei Tantei Yakumo
+WonderingZero 7 11eyes: Momoiro Genmutan
+WonderingZero 7 Ookami-san to Shichinin no Nakama-tachi
+WonderingZero 10 K-On!!
+WonderingZero 10 Sora no Otoshimono: Project Pink
+WonderingZero 8 Densetsu no Yuusha no Densetsu
+WonderingZero 7 HenSemi
+WonderingZero 5 Rio: Rainbow Gate!
+WonderingZero 8 Sora no Otoshimono: Forte
+WonderingZero 8 Durarara!! Specials
+WonderingZero 8 MM!
+WonderingZero 9 Gosick
+WonderingZero 6 Mirai Nikki
+WonderingZero 8 Baka to Test to Shoukanjuu Ni!
+WonderingZero 10 Kami nomi zo Shiru Sekai
+WonderingZero 8 Fortune Arterial: Akai Yakusoku
+WonderingZero 9 Shinryaku! Ika Musume
+WonderingZero 6 Hidan no Aria
+WonderingZero 8 Seitokai Yakuindomo
+WonderingZero 8 Amagami SS
+WonderingZero 8 Ore no Imouto ga Konnani Kawaii Wake ga Nai
+WonderingZero 7 Panty & Stocking with Garterbelt
+WonderingZero 9 Nichijou: Nichijou no 0-wa
+WonderingZero 6 Yosuga no Sora: In Solitude, Where We Are Least Alone.
+WonderingZero 7 Star Driver: Kagayaki no Takuto
+WonderingZero 8 Toaru Majutsu no Index II
+WonderingZero 7 IS: Infinite Stratos
+WonderingZero 8 Tamayura
+WonderingZero 7 Motto To LOVE-Ru
+WonderingZero 9 Kowarekake no Orgel
+WonderingZero 8 Super Robot Taisen OG: The Inspector
+WonderingZero 10 Steins;Gate
+WonderingZero 6 Dragon Crisis!
+WonderingZero 8 Yumekui Merry
+WonderingZero 7 D.C. I&II P.S.P. Re-Animated
+WonderingZero 7 Freezing
+WonderingZero 9 Denpa Onna to Seishun Otoko
+WonderingZero 8 Mitsudomoe Zouryouchuu!
+WonderingZero 7 Highschool of the Dead: Drifters of the Dead
+WonderingZero 9 Hidamari Sketch x ☆☆☆ Specials
+WonderingZero 8 Maria†Holic Alive
+WonderingZero 9 Mahou Shoujo Madoka★Magica
+WonderingZero 6 A-Channel
+WonderingZero 9 Shukufuku no Campanella: La Campanella Della Benedizione
+WonderingZero 7 Nekogami Yaoyorozu
+WonderingZero 9 Gintama'
+WonderingZero 8 Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+WonderingZero 10 Carnival Phantasm
+WonderingZero 7 Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials
+WonderingZero 10 Kami nomi zo Shiru Sekai II
+WonderingZero 9 Fate/Zero
+WonderingZero 6 Mayo Chiki!
+WonderingZero 8 Dog Days
+WonderingZero 8 Sacred Seven
+WonderingZero 7 C: The Money of Soul and Possibility Control
+WonderingZero 9 Nichijou
+WonderingZero 8 The iDOLM@STER
+WonderingZero 8 Shinryaku!? Ika Musume
+WonderingZero 7 Ben-To
+WonderingZero 8 Kyoukaisenjou no Horizon
+WonderingZero 8 Working'!!
+WonderingZero 8 Persona 4 the Animation
+WonderingZero 8 Denpa Onna to Seishun Otoko Special
+WonderingZero 8 Boku wa Tomodachi ga Sukunai
+WonderingZero 6 Guilty Crown
+WonderingZero 7 UN-GO
+WonderingZero 10 Steins;Gate: Oukoubakko no Poriomania
+WonderingZero 6 Kill Me Baby
+WonderingZero 8 Rinne no Lagrange
+WonderingZero 7 Amagami SS+ Plus
+WonderingZero 10 Hidamari Sketch x Honeycomb
+WonderingZero 8 Black★Rock Shooter (TV)
+WonderingZero 8 Nisemonogatari
+WonderingZero 7 High School DxD
+WonderingZero 9 Fate/Zero 2nd Season
+WonderingZero 8 Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then...
+WonderingZero 6 Sword Art Online
+WonderingZero 7 Accel World
+WonderingZero 8 Haiyore! Nyaruko-san
+WonderingZero 8 Danshi Koukousei no Nichijou
+WonderingZero 9 Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari
+WonderingZero 9 Hajime no Ippo: Boxer no Kobushi
+WonderingZero 9 Hyouka
+WonderingZero 7 Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
+WonderingZero 8 Jormungand
+WonderingZero 8 Kyokugen Dasshutsu Adv: Zennin Shibou Desu Prologue
+WonderingZero 8 Tasogare Otome x Amnesia
+WonderingZero 9 Kyoukaisenjou no Horizon II
+WonderingZero 7 Fate/Prototype
+WonderingZero 8 Robotics;Notes
+WonderingZero 9 Sakurasou no Pet na Kanojo
+WonderingZero 8 Arve Rezzle: Kikaijikake no Yousei-tachi
+WonderingZero 8 Chuunibyou demo Koi ga Shitai!
+WonderingZero 7 Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+WonderingZero 8 Fate/kaleid liner Prisma☆Illya
+WonderingZero 8 Maoyuu Maou Yuusha
+WonderingZero 8 Boku wa Tomodachi ga Sukunai Next
+WonderingZero 8 Hentai Ouji to Warawanai Neko.
+WonderingZero 8 Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+WonderingZero 7 Kotoura-san
+WonderingZero 8 Gintama': Enchousen
+WonderingZero 7 Date A Live
+WonderingZero 7 Chuunibyou demo Koi ga Shitai! Lite
+WonderingZero 8 Haiyore! Nyaruko-san W
+WonderingZero 8 Hataraku Maou-sama!
+WonderingZero 8 Zettai Karen Children: The Unlimited - Hyoubu Kyousuke
+WonderingZero 7 Choujigen Game Neptune The Animation
+WonderingZero 9 Shingeki no Kyojin
+WonderingZero 6 Devil Survivor 2 The Animation
+WonderingZero 7 Kakumeiki Valvrave
+WonderingZero 10 Hidamari Sketch: Sae Hiro Sotsugyou-hen
+WonderingZero 8 Golden Time
+WonderingZero 9 Kyoukai no Kanata
+WonderingZero 9 Kakumeiki Valvrave 2nd Season
+WonderingZero 7 Kill la Kill
+WonderingZero 8 Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!
+WonderingZero 8 Fate/kaleid liner Prisma☆Illya Specials
+WonderingZero 8 Hajime no Ippo: Rising
+WonderingZero 8 Choujigen Game Neptune The Animation OVA
+WonderingZero 8 Fate/kaleid liner Prisma☆Illya 2wei!
+WonderingZero 8 Black Bullet
+WonderingZero 8 Gokukoku no Brynhildr
+WonderingZero 9 Fate/stay night: Unlimited Blade Works
+Azariel 9 Major S2
+Azariel 6 Final Fantasy: The Spirits Within
+Azariel 5 Shounen Maid Kuuro-kun: Tenshi no Uta
+teddyplanet 0 Mezzo Forte
+teddyplanet 9 Elfen Lied
+teddyplanet 7 Moetan
+teddyplanet 9 Space☆Dandy
+schneebeutel 7 B-gata H-kei
+Belago 7 Happiness!
+Belago 8 Kekkaishi
+Belago 9 Over Drive
+Belago 9 Kenkou Zenrakei Suieibu Umishou
+Belago 7 ef: A Tale of Memories.
+Belago 5 Night Wizard
+Belago 9 Rosario to Vampire
+Belago 9 H2O: Footprints in the Sand
+kickass331 7 Eureka Seven: Pocket ga Niji de Ippai
+Kotori 0 Kishin Houkou Demonbane
+Kotori 0 Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!
+Kotori 0 Kodomo no Jikan Recap
+Kotori 0 Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato desukara
+Kotori 0 Kowarekake no Orgel
+Kotori 7 Inu x Boku SS
+Kotori 9 Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai
+Kotori 8 Choujigen Game Neptune The Animation
+Kotori 0 Rescue Me!
+Kotori 7 Choujigen Game Neptune The Animation OVA
+Kotori 0 Shinmai Maou no Testament OVA
+Kotori 0 Gakusen Toshi Asterisk
+jasvanth 6 Trinity Blood
+jasvanth 8 Great Teacher Onizuka
+jasvanth 5 Gantz
+jasvanth 3 Gantz 2nd Stage
+jasvanth 9 Howl no Ugoku Shiro
+jasvanth 10 Ghost in the Shell: Stand Alone Complex
+jasvanth 10 Tonari no Totoro
+jasvanth 8 Touhai Densetsu Akagi: Yami ni Maiorita Tensai
+jasvanth 5 Air Gear
+jasvanth 9 Nana
+jasvanth 10 Kyoushoku Soukou Guyver II
+jasvanth 10 Death Note
+jasvanth 10 Byousoku 5 Centimeter
+jasvanth 9 Genshiken OVA
+jasvanth 9 Hayate no Gotoku!
+jasvanth 8 Ookiku Furikabutte
+jasvanth 8 School Days
+jasvanth 7 Mobile Suit Gundam 00
+jasvanth 6 Gyakkyou Burai Kaiji: Ultimate Survivor
+jasvanth 10 xxxHOLiC Kei
+jasvanth 9 Kure-nai
+jasvanth 8 Nogizaka Haruka no Himitsu
+jasvanth 7 Soul Eater
+jasvanth 8 Yakushiji Ryouko no Kaiki Jikenbo
+jasvanth 6 Nabari no Ou
+jasvanth 10 Michiko to Hatchin
+jasvanth 8 Hyakko
+jasvanth 6 Vampire Knight Guilty
+jasvanth 9 Kuroshitsuji
+jasvanth 0 Afro Samurai: Resurrection
+jasvanth 8 Major S5
+jasvanth 8 One Outs
+jasvanth 10 Fullmetal Alchemist: Brotherhood
+jasvanth 7 Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!
+jasvanth 9 Baka to Test to Shoukanjuu
+jasvanth 6 Break Blade 1: Kakusei no Toki
+jasvanth 9 Baka to Test to Shoukanjuu Ni!
+jasvanth 9 Steins;Gate
+jasvanth 9 Kuroko no Basket
+jasvanth 10 Psycho-Pass
+jasvanth 10 Chihayafuru 2
+jasvanth 9 Kuroko no Basket 2nd Season
+Guybrush 10 Byousoku 5 Centimeter
+Guybrush 9 Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen
+winsonkoh 0 Katekyo Hitman Reborn!
+winsonkoh 0 Senjou no Valkyria
+winsonkoh 0 Seitokai no Ichizon
+winsonkoh 0 Sora no Otoshimono
+winsonkoh 0 Fight Ippatsu! Juuden-chan!!
+winsonkoh 0 Nogizaka Haruka no Himitsu: Purezza
+winsonkoh 0 Toaru Kagaku no Railgun
+winsonkoh 0 Nyan Koi!
+winsonkoh 0 Darker than Black: Ryuusei no Gemini
+winsonkoh 0 Black★Rock Shooter (OVA)
+winsonkoh 0 Nurarihyon no Mago
+winsonkoh 0 Shin Koihime†Musou OVA
+winsonkoh 0 B-gata H-kei
+winsonkoh 0 Yosuga no Sora: In Solitude, Where We Are Least Alone.
+winsonkoh 0 Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥
+bleuish 8 Fruits Basket
+bleuish 8 FLCL
+bleuish 8 Cardcaptor Sakura
+bleuish 7 Bishoujo Senshi Sailor Moon
+bleuish 7 Gakkou no Kaidan
+bleuish 8 Soul Eater
+bleuish 8 Hetalia Axis Powers
+bleuish 10 Fullmetal Alchemist: Brotherhood
+bleuish 7 Persona 4 the Animation
+Genesis1 6 GetBackers
+Genesis1 8 Kanon
+Genesis1 8 Tsukuyomi: Moon Phase
+Genesis1 8 Saishuu Heiki Kanojo
+Genesis1 9 Hidamari Sketch
+Genesis1 10 Higurashi no Naku Koro ni Kai
+Genesis1 9 Baccano!
+Genesis1 8 Kodomo no Jikan (TV)
+Genesis1 6 Zombie-Loan
+Genesis1 5 Myself; Yourself
+Genesis1 7 Kimikiss Pure Rouge
+Genesis1 5 Rosario to Vampire
+Genesis1 10 Eve no Jikan
+Genesis1 5 Minami-ke Okawari
+Genesis1 6 H2O: Footprints in the Sand
+Genesis1 7 Persona: Trinity Soul
+Genesis1 9 Yawaraka Sangokushi Tsukisase!! Ryofuko-chan
+Genesis1 7 Kanokon
+Genesis1 8 Michiko to Hatchin
+Genesis1 0 Toradora!
+Genesis1 8 ef: A Tale of Melodies.
+Genesis1 10 Umineko no Naku Koro ni
+Genesis1 8 Casshern Sins
+Genesis1 6 Asu no Yoichi!
+Genesis1 9 Bakemonogatari
+Genesis1 6 Pandora Hearts
+Genesis1 7 Seitokai no Ichizon
+Genesis1 7 Amagami SS
+Azrael 8 Cowboy Bebop
+Azrael 8 Scrapped Princess
+Azrael 8 Slayers
+hyakuiro 9 Samurai Champloo
+hyakuiro 9 Shingeki no Kyojin
+hyakuiro 6 Noragami
+kuma- 0 Tonari no Totoro
+i5v2iu 7 Bokusatsu Tenshi Dokuro-chan 2
+LazyMan 8 Jin-Rou
+LazyMan 8 Black Lagoon: The Second Barrage
+LazyMan 10 Hajime no Ippo: New Challenger
+LazyMan 8 Higashi no Eden

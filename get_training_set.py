@@ -1,4 +1,4 @@
-# Temporary script to gather 1,000,000 MAL users to use as a
+# Temporary script to gather 100000 MAL users to use as a
 # training set for testing purposes.
 
 from lxml.html import fromstring
@@ -6,6 +6,7 @@ from xml.etree import ElementTree
 import re
 import requests
 
+# TODO: Remove all username retrieval code.
 
 class DataGenerator(object):
     def __init__(self):
@@ -74,7 +75,7 @@ class DataGenerator(object):
 
 def main():
     generator = DataGenerator()
-    generator.retrieve_usernames(5)
+    generator.retrieve_usernames(10000)
     generator.retrieve_element_trees()
     generator.extract_animes()
     generator.write_data()
