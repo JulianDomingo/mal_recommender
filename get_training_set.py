@@ -24,13 +24,11 @@ class DataGenerator(object):
                                     + str(user), headers=self.user_agent_header)
             user += 1
           
-            print(response.status_code)
             if response.status_code == 404:
                 continue
 
             raw_title = fromstring(response.content).findtext(".//title")
             username = re.sub("'s.*$|\n", "", raw_title)
-            
             self.element_trees.setdefault(username, [None]) 
             
             counter += 1
@@ -52,12 +50,23 @@ class DataGenerator(object):
         tree = user_info[0]
 
         for anime in tree.findall("anime"):
-            if int(anime.find("my_watched_episodes").text) > 0:
-                user_info.append(anime.find("series_title").text)
+            if self.is_completed(anime):
+                user_info.append((anime.find("series_title").text, anime.find("my_score").text))
+
+
+    def is_completed(self, anime):
+        watched = int(anime.find("my_watched_episodes").text) 
+        total   = int(anime.find("series_episodes").text) 
+        return (watched == total) and (watched > 0 and total > 0)
 
 
     def write_data(self):
-        data = "\n".join(", ".join(shows[1:]) for shows in self.element_trees.values()) 
+        data = ""
+
+        for username, user_info in self.element_trees.items():
+            data += "\n".join(username + " " + show[1] + " " + show[0] for show in user_info[1:])
+            data += "\n"
+        
         training_set = open("training_set.txt", "w")
         training_set.write(data)
         training_set.close()
@@ -65,7 +74,7 @@ class DataGenerator(object):
 
 def main():
     generator = DataGenerator()
-    generator.retrieve_usernames(10)
+    generator.retrieve_usernames(5)
     generator.retrieve_element_trees()
     generator.extract_animes()
     generator.write_data()
