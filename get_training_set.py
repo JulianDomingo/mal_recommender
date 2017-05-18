@@ -10,7 +10,10 @@ import requests
 class DataGenerator(object):
     def __init__(self):
         self.element_trees = dict()
+        # A unique, descriptive user-agent string is needed to avoid
+        # the 429 status code.
         self.user_agent_header = {"User-Agent": "Data Scraper Script by user Almiria"} 
+
 
     def retrieve_usernames(self, number_of_requests):
         user = 1
