@@ -3,7 +3,7 @@ from xml.etree import ElementTree
 import re
 import requests
 
-NUMBER_OF_USERS = 15
+USERS_TO_ADD = 15
 
 class UsernameGenerator(object):
     def __init__(self):
@@ -22,7 +22,7 @@ class UsernameGenerator(object):
         user = self.starting_id
         counter = 0
 
-        while counter < NUMBER_OF_USERS:
+        while counter < USERS_TO_ADD:
             response = requests.get("https://myanimelist.net/comments.php?id="
                                     + str(user), headers=self.user_agent_header)
             user += 1

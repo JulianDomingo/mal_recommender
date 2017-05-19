@@ -1,40 +1,25 @@
-# Temporary script to gather 100000 MAL users to use as a
-# training set for testing purposes.
+# Temporary script to gather user data from usernames.txt to use as a
+# training set (testing purposes).
 
 from lxml.html import fromstring
 from xml.etree import ElementTree
 import re
 import requests
 
-# TODO: Remove all username retrieval code.
+# TODO: Be able to remove users from "username.txt" and add their ID if no
+# animes completed.
 
 class DataGenerator(object):
     def __init__(self):
-        self.element_trees = dict()
+        with open("usernames.txt") as temp_file:        
+            usernames = temp_file.read().splitlines()
+        self.element_trees = {user: [None] for user in usernames}
+        
         # A unique, descriptive user-agent string is needed to avoid
         # the 429 status code.
-        self.user_agent_header = {"User-Agent": "Data Scraper Script by user Almiria"} 
+        self.user_agent_header = {"User-Agent": "Data Scraper Script by user Almiria"}
 
-
-    def retrieve_usernames(self, number_of_requests):
-        user = 1
-        counter = 0
-
-        while counter < number_of_requests:
-            response = requests.get("https://myanimelist.net/comments.php?id="
-                                    + str(user), headers=self.user_agent_header)
-            user += 1
-          
-            if response.status_code == 404:
-                continue
-
-            raw_title = fromstring(response.content).findtext(".//title")
-            username = re.sub("'s.*$|\n", "", raw_title)
-            self.element_trees.setdefault(username, [None]) 
-            
-            counter += 1
-
-
+    
     def retrieve_element_trees(self):
         for user in self.element_trees.keys():
             response = requests.get("https://myanimelist.net/malappinfo.php?u="
@@ -75,7 +60,6 @@ class DataGenerator(object):
 
 def main():
     generator = DataGenerator()
-    generator.retrieve_usernames(10000)
     generator.retrieve_element_trees()
     generator.extract_animes()
     generator.write_data()
