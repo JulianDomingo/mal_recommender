@@ -5,6 +5,8 @@ import requests
 
 USERS_TO_ADD = 15
 
+# TODO: Remove duplicate username apperance (error when appending list of new
+# usernames)
 class UsernameGenerator(object):
     def __init__(self):
         self.usernames = [] 
