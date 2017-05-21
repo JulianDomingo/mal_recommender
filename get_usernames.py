@@ -5,8 +5,7 @@ import requests
 
 USERS_TO_ADD = 15
 
-# TODO: Remove duplicate username apperance (error when appending list of new
-# usernames)
+
 class UsernameGenerator(object):
     def __init__(self):
         self.usernames = [] 
@@ -43,13 +42,13 @@ class UsernameGenerator(object):
         self.usernames.append(username)
 
 
-
     def record_users(self):
         users = open("usernames.txt", "a")
-        users.write("\n".join(username for username in self.usernames))
+        users.write("\n".join(username for username in self.usernames) + "\n")
         users.close()
+
         blacklist = open("blacklist.txt", "a")
-        blacklist.write("\n".join(str(user_id) for user_id in self.blacklist))
+        blacklist.write("\n".join(str(user_id) for user_id in self.blacklist) + "\n")
         blacklist.close()
 
 

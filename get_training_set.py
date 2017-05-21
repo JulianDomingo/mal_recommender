@@ -6,6 +6,7 @@ from xml.etree import ElementTree
 import re
 import requests
 
+# TODO: Consider using scrapy instead of requests
 
 class DataGenerator(object):
     def __init__(self):
