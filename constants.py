@@ -4,7 +4,7 @@ LAST_UNCHECKED_ID_FILE = "last_unchecked_id.txt"
 MAL_COMMENTS_URL_PREFIX = "https://myanimelist.net/comments.php?id="
 MAL_PROFILE_URL_PREFIX = "https://myanimelist.net/malappinfo.php?u=" 
 MAL_PROFILE_URL_POSTFIX = "&status=all&type=anime"
-MAX_USERS = 5
+MAX_USERS = 1000 
 MEDIUM = "anime"
 # TEST_PASS = "!recommendertest?"
 # TEST_USER = "malrecommender"
