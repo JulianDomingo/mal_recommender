@@ -87,10 +87,23 @@ class Scraper(object):
 
 
     def contains_table(self, table_name):
+        """
+        Returns true if the table name 'table_name' exists
+        within the AWS client's DynamoDB. 
+        :param table_name The name of the table to check for.
+        """
         return constants.TABLE_NAME in self.client.list_tables()
 
 
     def create_table(self, table_name):
+        """
+        Creates a new table named 'table_name', with the
+        partition key indicated by the username and a
+        read/write throughput of 20 per second. Finally,
+        waits until the table is truly created in DynamoDB
+        before returning.
+        :param table_name The name of the table to check for.
+        """
         local_table = self.resource.create_table(
             TableName=table_name,
             KeySchema=[
