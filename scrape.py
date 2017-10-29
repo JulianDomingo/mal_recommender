@@ -82,7 +82,11 @@ class Scraper:
         
         soup = BeautifulSoup(response.text, 'lxml')          
         medium_list = spice.objects.MediumList(spice.tokens.Medium.ANIME, soup)
-        show_ratings = dict(zip(medium_list.get_titles(), medium_list.get_scores()))
+
+        all_show_ratings = dict(zip(medium_list.get_titles(), medium_list.get_scores())).items()
+        completed_shows = list(map(lambda anime: anime.title, medium_list.medium_list[spice.tokens.Status.COMPLETED]))
+
+        show_ratings = {key: value for key, value in all_show_ratings if key in completed_shows}
 
         self.table.put_item(
             Item={
